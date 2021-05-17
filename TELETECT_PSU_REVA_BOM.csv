@@ -1,0 +1,15 @@
+#,QTY,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,
+1,4,"C1, C2, C3, C4",Panasonic,EEU-FS1E122B ,Mouser,667-EEU-FS1E122B,Aluminum Electrolytic Capacitors - Radial Leaded 25VDC 1200uF 10000H 10x20mm,1200uF,
+2,2,"C5, C6",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,100n,CAP-2.54/6.6x3
+3,10,"C7, C8, C9, C10, C11, C12, C13, C14, C17, C18",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10u 25V,
+4,8,"D1, D2, D3, D4, D5, D6, D7, D8",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,,DO-41
+5,2,"D9, D10",Lite-On,LTL2R3KRD-EM ,Mouser,859-LTL2R3KRD-EM,Standard LEDs - Through Hole Thru-Hole Lamp 5mm Red 631nm 30Deg ,,
+6,3,"J1, J9, J10",CUI Devices,TB002-500-03BE ,Mouser,490-TB002-500-03BE,"Fixed Terminal Blocks Terminal block, screw type, 5.00 , horizontal, 3 poles, CUI Blue, slotted screw, PCB mount",,
+7,4,"J3, J4, J5, J6",Wurth Elektronik,61201621621 ,Mouser,710-61201621621,Headers & Wire Housings WR-BHD 2.54mm Box 16Pin Male Straight,,
+8,2,"R1, R2",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,
+9,2,"R3, R4",Bourns,3296W-1-202LF ,Mouser,652-3296W-1-202LF,,2K,
+10,2,"R5, R6",KOA Speer,MF1/4DC2400F ,Mouser,660-MF1/4DC2400F,Metal Film Resistors - Through Hole 240ohm 1% 100PPM,240R,
+11,2,"R7, R8",KOA Speer,MF1/4DCT52R4701F,Mouser,660-MF1/4DCT52R4701F,Metal Film Resistors - Through Hole 1/4W 4.7K ohm 1% ,4.7K,
+12,2,"R9, R10",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,RES-7.62/5.1x2.5
+13,1,U1,ON Semiconductor ,LM337TG ,Mouser,863-LM337TG ,Linear Voltage Regulators 1.5A -1.2 to -37V ADJ Negative,,
+14,1,U2,ON Semiconductor ,LM317TG ,Mouser,863-LM317TG,Linear Voltage Regulators 1.5A ADJ 1.2-37V Positive ,,
